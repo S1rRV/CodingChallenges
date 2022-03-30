@@ -33,8 +33,8 @@ def getPalindrome(st):
         firstHalf = firstHalf + s 
         secondHalf = s + secondHalf
         
-        print(firstHalf)
-        print(secondHalf) 
+        #print(firstHalf)
+        #print(secondHalf) 
     
     if (oddCount == 1):
         return (firstHalf + oddChar + secondHalf)
